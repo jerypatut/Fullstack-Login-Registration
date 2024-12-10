@@ -87,6 +87,4 @@ Akses Aplikasi
 Aplikasi dapat diakses di browser pada URL:
 
 http://localhost:5173/
-![Logo](./assets/logo.png)
-![Logo](./assets/logo.png)
 
